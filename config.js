@@ -10,8 +10,8 @@
                 (или по кнопке «Пропустить») — переход по url
    ===================================================================== */
 const PRODUCTS = [
-  { id:'aura',      title:'АУРА',                full:'Автономное управление разработкой актива',  theme:'dark',  pos:'50% 50%', highlight:'left',  video:'assets/video/aura.mp4', owner:'Алена Бареева',      url:'http://83.147.194.170/aura/' },
-  { id:'alchemist', title:'Алхимик',             full:'Молекулярное моделирование нефтепродуктов', theme:'dark',  pos:'35% 45%', highlight:'right', video:'',                     owner:'Дарья Асикритова',   url:'' },
+  { id:'aura',      title:'АУРА',                full:'Автономное управление разработкой актива',  theme:'dark',  pos:'50% 50%', highlight:'right',  video:'assets/video/aura.mp4', owner:'Алена Бареева',      url:'http://83.147.194.170/aura/' },
+  { id:'alchemist', title:'Алхимик',             full:'Молекулярное моделирование нефтепродуктов', theme:'dark',  pos:'35% 45%', highlight:'left', video:'',                     owner:'Дарья Асикритова',   url:'' },
   { id:'o1l',       title:'O1L',                 full:'Индустриальная инженерная ИИ‑модель',  theme:'tint',  pos:'55% 30%', highlight:'',      video:'',                     owner:'Виктор Котяжеков',   url:'https://spb99tp18146-dgx7.techpark.local/' },
   { id:'gpnai',     title:'Ассистент закупщика', full:'Голосовой ИИ‑ассистент',               theme:'light', pos:'60% 40%', highlight:'',      video:'',                     owner:'Александр Андросов', url:'https://supplygpn.ru' },
 ];
